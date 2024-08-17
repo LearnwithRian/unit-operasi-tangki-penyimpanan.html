@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unit Operasi: Tangki Penyimpanan - Pembelajaran Keteknikkimiaan</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Unit Operasi: Tangki Penyimpanan</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">Beranda</a></li>
+            <li><a href="unit-operasi-tangki-penyimpanan.html">Tangki Penyimpanan</a></li>
+            <!-- Tambahkan link ke halaman lain di sini -->
+        </ul>
+    </nav>
+    <main>
+        <h2>Pengenalan Tangki Penyimpanan</h2>
+        <p>Tangki penyimpanan adalah komponen penting dalam industri kimia yang digunakan untuk menyimpan berbagai jenis cairan dan gas. Mereka memainkan peran krusial dalam proses produksi, distribusi, dan penyimpanan bahan kimia.</p>
+
+        <h3>Jenis-jenis Tangki Penyimpanan</h3>
+        <ul>
+            <li>Tangki Atmosferik</li>
+            <li>Tangki Bertekanan</li>
+            <li>Tangki Kriogenik</li>
+            <li>Tangki Bola (Spherical Tanks)</li>
+        </ul>
+
+        <h3>Desain dan Konstruksi</h3>
+        <p>Desain tangki penyimpanan harus mempertimbangkan beberapa faktor penting:</p>
+        <ol>
+            <li>Sifat kimia dan fisika bahan yang disimpan</li>
+            <li>Kapasitas penyimpanan yang dibutuhkan</li>
+            <li>Tekanan operasi</li>
+            <li>Suhu penyimpanan</li>
+            <li>Pertimbangan keselamatan dan lingkungan</li>
+        </ol>
+
+        <h3>Perhitungan Kapasitas Tangki</h3>
+        <p>Untuk menghitung volume tangki silinder vertikal, gunakan rumus:</p>
+        <p>V = π * r² * h</p>
+        <p>Dimana:</p>
+        <ul>
+            <li>V = Volume tangki</li>
+            <li>r = Jari-jari tangki</li>
+            <li>h = Tinggi tangki</li>
+        </ul>
+
+        <h3>Keselamatan dan Pemeliharaan</h3>
+        <p>Keselamatan adalah prioritas utama dalam pengoperasian tangki penyimpanan. Beberapa aspek penting meliputi:</p>
+        <ul>
+            <li>Inspeksi rutin</li>
+            <li>Sistem deteksi kebocoran</li>
+            <li>Prosedur pengisian dan pengosongan yang aman</li>
+            <li>Pelatihan personel</li>
+        </ul>
+    </main>
+    <footer>
+        <p>&copy; 2024 Pembelajaran Keteknikkimiaan. Hak cipta dilindungi undang-undang.</p>
+    </footer>
+</body>
+</html>
